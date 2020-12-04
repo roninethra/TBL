@@ -33,3 +33,12 @@ img {
 .menu li:hover {
     background-color: #9c4dcc;
 }
+#contactdiv h3{
+    display: inline;
+}
+#Contact{
+    margin-top: 50px;
+}
+#Tim Berners-Lee Videos and Talks iframe{
+    margin-right: 10px;
+}
